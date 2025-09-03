@@ -1,7 +1,8 @@
 body {
-	background-image: url(imagens/bg.jpg);
+	background-image: url(imagens/background.jpg);
+	background-size: cover;
 	background-repeat: no-repeat;
-}
+	}
 
 html {
 	cursor: url(imagens/mata_mosquito.png) 30 30, auto;
